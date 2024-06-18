@@ -10,7 +10,7 @@ def main(args: argparse.Namespace) -> None:
     Parameters
     ----------
     args : argparse.Namespace
-        _description_
+        Arguments
     """
     pass
 
